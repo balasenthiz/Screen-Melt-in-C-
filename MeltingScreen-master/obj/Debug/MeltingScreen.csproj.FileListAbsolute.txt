@@ -1,0 +1,10 @@
+D:\Sample Projects downloaded\MeltingScreen-master\bin\Debug\MeltingScreen.exe.config
+D:\Sample Projects downloaded\MeltingScreen-master\bin\Debug\MeltingScreen.exe
+D:\Sample Projects downloaded\MeltingScreen-master\bin\Debug\MeltingScreen.pdb
+D:\Sample Projects downloaded\MeltingScreen-master\obj\Debug\MeltingScreen.csprojResolveAssemblyReference.cache
+D:\Sample Projects downloaded\MeltingScreen-master\obj\Debug\MeltingScreen.MainForm.resources
+D:\Sample Projects downloaded\MeltingScreen-master\obj\Debug\MeltingScreen.Properties.Resources.resources
+D:\Sample Projects downloaded\MeltingScreen-master\obj\Debug\MeltingScreen.ShowScreenForm.resources
+D:\Sample Projects downloaded\MeltingScreen-master\obj\Debug\MeltingScreen.csproj.GenerateResource.Cache
+D:\Sample Projects downloaded\MeltingScreen-master\obj\Debug\MeltingScreen.exe
+D:\Sample Projects downloaded\MeltingScreen-master\obj\Debug\MeltingScreen.pdb
